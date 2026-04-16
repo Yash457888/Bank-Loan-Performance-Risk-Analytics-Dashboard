@@ -18,7 +18,7 @@ Borrower details (Income, Employment Length, Home Ownership)
 
 Issue Date and Payment data
 
-**👉These variables are used to evaluate loan performance and credit risk.**
+**These variables are used to evaluate loan performance and credit risk.**
 
 
 
@@ -65,7 +65,7 @@ Average Interest Rate & DTI
 
 Good vs Bad Loan analysis
 
-**👉 As shown in the dashboard (page 6), KPIs like ~38K applications and loan quality segmentation are highlighted clearly**
+**As shown in the dashboard (page 6), KPIs like ~38K applications and loan quality segmentation are highlighted clearly**
 
 **2. Overview Dashboard**
 
@@ -75,7 +75,7 @@ Regional analysis by state
 
 Loan segmentation (term, purpose, employment length, home ownership)
 
-**👉 Visuals like line charts and donut charts help identify trends and distribution patterns (page 9)**
+**Visuals like line charts and donut charts help identify trends and distribution patterns (page 9)**
 
 **3. Details Dashboard**
 
@@ -83,7 +83,7 @@ Granular, record-level loan data
 
 Filter-based analysis for deeper insights
 
-**👉 Provides a complete view of borrower and loan-level data (page 11)**
+**Provides a complete view of borrower and loan-level data (page 11)**
 
 ## Results & Insights
 
@@ -105,6 +105,6 @@ Filter-based analysis for deeper insights
 
 - Understanding financial metrics like loan risk, DTI, and portfolio health
 
-**🔷 Conclusion**
+## Conclusion
 
 This project demonstrates how data analytics can be applied in the banking domain to monitor loan performance, assess risk, and support strategic decision-making using SQL and Power BI.
