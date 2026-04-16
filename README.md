@@ -1,10 +1,10 @@
-**📊 Bank Loan Performance Analysis & Dashboard**
+# Bank Loan Performance Analysis & Dashboard
 
-**🔷 Overview**
+## Overview
 
 This project focuses on analysing a bank’s loan portfolio to understand lending performance, borrower risk, and repayment trends. The goal is to build a data-driven reporting system that helps track key financial metrics and supports better decision-making in lending operations.
 
-**🔷 Dataset**
+## Dataset
 
 The dataset contains detailed information about loan applications, borrower profiles, and repayment behaviour. 
 
@@ -22,14 +22,14 @@ Issue Date and Payment data
 
 
 
-**🔷 Tools & Technologies**
+## Tools & Technologies
 
 **1)SQL:** Data extraction, KPI calculation, validation
 
 **2)Power BI:** Dashboard creation and data visualization
 
 
-**🔷 Project Steps**
+## Project Steps
 
 **1) Understanding Business Problem**
 
@@ -53,7 +53,7 @@ Built interactive dashboards to represent trends, distributions, and performance
 
 Created a structured report and PPT to communicate insights clearly.
 
-**🔷 Dashboard**
+## Dashboard
 
 **The project includes 3 main dashboards:**
 
@@ -85,7 +85,7 @@ Filter-based analysis for deeper insights
 
 **👉 Provides a complete view of borrower and loan-level data (page 11)**
 
-**🔷 Results & Insights**
+## Results & Insights
 
 - Majority of loans fall under good loan category (Fully Paid & Current), indicating stable portfolio performance
 
@@ -95,7 +95,7 @@ Filter-based analysis for deeper insights
 
 - Metrics like DTI and interest rate help assess borrower risk and repayment capacity
 
-**🔷 Key Learnings**
+## Key Learnings
 
 - Translating business requirements into measurable KPIs
 
